@@ -11,12 +11,18 @@ import MyBidsWins from './MyAccount/MyBidsWins';
 import HowShibnobiMotorWorks from './HowShibnobiMotorWorks';
 import PhotoGallery from './PhotoGallery';
 import SubmitaVehicle from './SubmitaVehicle';
+import MyShipments from './MyAccount/MyShipments';
+import MakeAnModel from './MakeAnModel';
+import Store from './Store';
+import Features from './Features';
+import Detail from './Detail';
+
 
 function Layout() {
   return (
     <>
         <Header/>
-          <BrowserRouter>
+          {/* <BrowserRouter>
             <Routes>
             <Route index element={<Home />} />
                 <Route path="listing" element={<MyListings />} />
@@ -27,7 +33,7 @@ function Layout() {
                 <Route path="gallary" element={<PhotoGallery />} />
                 <Route path="submit" element={<SubmitaVehicle />} />
             </Routes>
-          </BrowserRouter>
+          </BrowserRouter> */}
           {/* <AccountInfo/> */}
           {/* <Notifications/> */}
           {/* <MyListings/> */}
@@ -35,7 +41,12 @@ function Layout() {
           {/* <HowShibnobiMotorWorks/> */}
           {/* <PhotoGallery/> */}
           {/* <Home/> */}
-          <SubmitaVehicle/>
+          {/* <SubmitaVehicle/> */}
+          {/* <MyShipments/> */}
+          {/* <MakeAnModel/> */}
+          {/* <Store/> */}
+          {/* <Features/> */}
+          <Detail/>
         <Footer/>
     </>
 

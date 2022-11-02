@@ -572,6 +572,28 @@ select.field option{background-color: #111;}
 
 
 
+.orderListRow{display: flex; flex-wrap: wrap; margin-bottom: 20px;}
+.orderImg{width: 200px; height: 150px; min-width: 200px; overflow: hidden;}
+.orderImg img{min-width: 100%; min-height: 100%; object-fit: cover;}
+.orderInfo{padding: 10px 15px; width: calc(100% - 200px);}
+.orderInfo h5{margin-bottom: 5px;}
+.price__{font-size: 18px; margin-bottom: 10px;}
+.price__ svg{margin-right: 3px; color: #F6811C;}
+
+.orderInfo .gry_btn{font-size: 12px; height: auto; padding: 8px 15px;}
+
+.orderStep{display: flex; padding-top: 15px;}
+.orderStep li{width: 25%; position: relative; padding: 20px 5px 15px; text-align: center;}
+.orderStep li:after{position: absolute; content: ''; width: 16px; height: 16px; border-radius: 50%; background-color: #444; left: 50%; transform: translateX(-50%); top: -6px;}
+.orderStep li:before{position: absolute; content: ''; width: 100%; height: 3px; background: #111; left: 0; top: 0;}
+.orderStep .orderTitle{font-size: 13px;}
+.orderStep .orderDate{font-size: 12px; opacity: 0.5; font-weight: normal;}
+.orderStep .active:after{background-color: #16991b;}
+.orderStep .active:before{background-color: #16991b;}
+.orderStep li:first-child{text-align: left;}
+.orderStep li:first-child:after{left: 8px;}
+.orderStep li.active:last-child:after{top: -12px; width: 24px; height: 24px; background: #16991b url(../images/check_ic.svg) center no-repeat; background-size: 12px;}
+.orderStep li:last-child:before{width: 50%;}
 
 
 
@@ -721,6 +743,10 @@ body.lightTheme{background-color: #fff; color: #000;}
 .bidsLabelList{display: flex; flex-wrap: wrap;}
 .bidsLabelList li{margin-right: 10px; margin-bottom: 8px;}
 .bidsLabelList li svg{margin-right: 3px; color: #F6811C;}
+
+
+
+
 
 
 
