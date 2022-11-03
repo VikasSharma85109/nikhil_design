@@ -30,9 +30,17 @@ function Header() {
                 <div className="collapse navbar-collapse" id="navb">
                   <ul className="navbar-nav ml-auto">
                     <li className="nav-item">
-                      <a className="nav-link" to="/auction">
+                      {/* <a className="nav-link" to="/auction">
                         Auctions
-                      </a>
+                      </a> */}
+                      <div class="dropdown">
+                          <a class="nav-link " href="#h">Auctions</a>
+                          <div class="dropdown-content">
+                            <a className="nav-link" href="#1">Live now</a>
+                            <a className="nav-link" href="#2">Premium</a>
+                            <a className="nav-link" href="#2">Resullt</a>
+                          </div>
+                      </div>
                     </li>
                     <li className="nav-item">
                       <a className="nav-link" href="/submit">
@@ -75,6 +83,8 @@ function Header() {
                       <a className="nav-link" href="#">
                         Shipping
                       </a>
+                     
+                   
                     </li>
                     <li className="nav-item">
                       <a className="nav-link" href="#">
@@ -108,7 +118,7 @@ function Header() {
                     </li>
                     <li className="nav-item">
                       <a className="nav-link" href="#">
-                        Podcast
+                        Carraffle
                       </a>
                     </li>
                     <li className="nav-item">
@@ -134,14 +144,27 @@ function Header() {
                   >
                     <ul className="navbar-nav flex-wrap" id="nav">
                       <li className="nav-item">
-                        <a className="nav-link" href="#">
+                        {/* <a className="nav-link" href="#">
                           Shipping
-                        </a>
+                        </a> */}
+                        <div class="dropdown">
+                          <a class="nav-link " href="#h">Shipping</a>
+                          <div class="dropdown-content">
+                            <a className="nav-link" href="#1">Get a quote</a>
+                            <a className="nav-link" href="#2">My Shipment</a>
+                          </div>
+                      </div>
+
                       </li>
                       <li className="nav-item">
-                        <a className="nav-link" href="#">
-                          Makes and Models
-                        </a>
+                       
+                        <div class="dropdown">
+                          <a class="nav-link " href="#h">Makes and Models</a>
+                          <div class="dropdown-content">
+                            <a className="nav-link" href="#1">Company</a>
+                            <a className="nav-link" href="#2">Showroom</a>
+                          </div>
+                      </div>
                       </li>
                       <li className="nav-item">
                         <a className="nav-link" href="#">

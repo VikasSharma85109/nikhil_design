@@ -16,6 +16,9 @@ import MakeAnModel from './MakeAnModel';
 import Store from './Store';
 import Features from './Features';
 import Detail from './Detail';
+import TermsOfUse from './TermsOfUse';
+import PrivacyNotice from './PrivacyNotice';
+import AboutShibanobi from './AboutShibanobi';
 
 
 function Layout() {
@@ -46,7 +49,10 @@ function Layout() {
           {/* <MakeAnModel/> */}
           {/* <Store/> */}
           {/* <Features/> */}
-          <Detail/>
+          {/* <Detail/> */}
+          {/* <TermsOfUse/> */}
+          {/* <PrivacyNotice/> */}
+          <AboutShibanobi/>
         <Footer/>
     </>
 

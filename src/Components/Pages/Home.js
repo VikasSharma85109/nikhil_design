@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import Img_01 from '../../Assets/images/img_01.jpg'
 import Img_02 from '../../Assets/images/img_02.jpg'
-import  ic_scrollDown from '../../Assets/images/ic_scrollDown.svg'
+import ic_scrollDown from '../../Assets/images/ic_scrollDown.svg'
 import car_01 from '../../Assets/images/car_01.jpg'
 import car_02 from '../../Assets/images/car_02.jpg'
 import car_03 from '../../Assets/images/car_03.jpg'
@@ -134,7 +134,9 @@ function Home() {
     <div>
        
         <section className="heroSection d-flex align-items-center">
-            <button type="button" className="scrollDownIc" onclick="smoothScroll(document.getElementById('second'))"><img srr={ic_scrollDown} alt="ic_scrollDown"/></button>
+        <button type="button" className="scrollDownIc" onclick="smoothScroll(document.getElementById('second'))"><img src={ic_scrollDown} alt="ic_scrollDown"/></button>
+
+
             <div className="container">
                 <div className="row">
                     <div className="col-12 col-lg-8 offset-lg-2">
