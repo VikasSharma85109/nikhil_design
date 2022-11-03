@@ -19,6 +19,8 @@ import Detail from './Detail';
 import TermsOfUse from './TermsOfUse';
 import PrivacyNotice from './PrivacyNotice';
 import AboutShibanobi from './AboutShibanobi';
+import Shipping from './Shipping';
+import CookiesSetting from './CookiesSetting';
 
 
 function Layout() {
@@ -52,7 +54,9 @@ function Layout() {
           {/* <Detail/> */}
           {/* <TermsOfUse/> */}
           {/* <PrivacyNotice/> */}
-          <AboutShibanobi/>
+          {/* <AboutShibanobi/> */}
+          {/* <Shipping/> */}
+          <CookiesSetting/>
         <Footer/>
     </>
 

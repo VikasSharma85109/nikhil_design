@@ -8,6 +8,7 @@ import car_03 from '../../Assets/images/car_03.jpg'
 import car_04 from '../../Assets/images/car_04.jpg'
 import img_05 from '../../Assets/images/img_05.jpg'
 import img_06 from '../../Assets/images/img_06.jpg'
+import addBanner from '../../Assets/images/Mask-group.png'
 import Header from '../Header'
 import Footer from '../Footer'
 import Slider from 'react-slick';
@@ -495,6 +496,16 @@ function Home() {
                                 <a href="#" className="btn">View More Blogs</a>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section className="ptb_80 blogSection">
+            <div className="container">
+                <div className="row">
+                    <div className="col-12 text-center pb_30">
+                        <img src={addBanner} className="addBanner"/>
                     </div>
                 </div>
             </div>

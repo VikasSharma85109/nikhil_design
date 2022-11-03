@@ -134,7 +134,9 @@ hr{border-color: #333;}
 .dropdown.show .navbarToggler{background-color: transparent;}
 .dropdown.show .navbarToggler:before{top: 0; transform: rotate(45deg);}
 .dropdown.show .navbarToggler:after{bottom: 0; transform: rotate(-45deg);}
-
+img.addBanner {
+  width: 100%;
+}
 .navbar-toggler.collapsed{}
 .navbar-toggler.collapsed .navbarToggler{background-color: #fff;}
 .navbar-toggler.collapsed .navbarToggler:before{transform: rotate(45deg); top: 0; transform: unset; top: -8px;}
