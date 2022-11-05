@@ -15,7 +15,7 @@ function Header() {
           <div className="row">
             <div className="col-12">
               <nav className="navbar navbar-expand-md">
-                <a className="navbar-brand" href="index.html">
+                <a className="navbar-brand" href="#">
                   <img src={shibnobiMotors} alt="shibnobiMotors" />
                 </a>
                 <button

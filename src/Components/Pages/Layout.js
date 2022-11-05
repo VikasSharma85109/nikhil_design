@@ -21,6 +21,9 @@ import PrivacyNotice from './PrivacyNotice';
 import AboutShibanobi from './AboutShibanobi';
 import Shipping from './Shipping';
 import CookiesSetting from './CookiesSetting';
+import SellYourVehicle from './SellYourVehicle';
+import AuctionResults from './AuctionResults';
+import CarLotry from './CarLotry';
 
 
 function Layout() {
@@ -56,7 +59,10 @@ function Layout() {
           {/* <PrivacyNotice/> */}
           {/* <AboutShibanobi/> */}
           {/* <Shipping/> */}
-          <CookiesSetting/>
+          {/* <CookiesSetting/> */}
+          {/* <SellYourVehicle/> */}
+          {/* <AuctionResults/> */}
+          <CarLotry/>
         <Footer/>
     </>
 

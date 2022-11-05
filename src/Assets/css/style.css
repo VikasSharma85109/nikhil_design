@@ -802,3 +802,139 @@ body.lightTheme{background-color: #fff; color: #000;}
 
 
 
+.dropdown-content {background-color: transparent;}
+.secondNavbar .navbar-nav .nav-link {
+  font-size: 14px;
+  color: #fff;
+}
+.dropdown-content a:hover {
+  background-color: transparent;
+}
+.dropdown-content {
+  background-color: #000000bd !important;
+}
+.dropdown-content a {
+  color: #fff;
+}
+
+
+
+
+.sideBar__{}
+.sideBar__ .active{color: #F6811C;}
+.sideBar__ li {width: 100%;}
+.sideBar__ li a.nav-link{}
+.sideBar__ li a.nav-link.active{background-color: #F6811C; color: #fff;}
+
+form .gry_btn{
+  min-width: 130px;
+}
+
+.drag-area{
+  border: 2px dashed #333;
+  height: 230px;
+  width: 100%;
+  border-radius: 5px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.drag-area.active{
+  border: 2px solid #fff;
+}
+.drag-area .icon{
+  font-size: 40px;
+  color: #fff;
+}
+.drag-area header{
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+}
+.drag-area span{
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+  margin: 10px 0 15px 0;
+}
+.drag-area button{
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  background: #F6811C;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.drag-area img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.labelList.priceDateList{opacity: 1;}
+
+.card_postImg_labe{position: absolute; left: 0; top: 0; padding: 5px  8px; background: rgba(246, 129, 28, 0.9); color: #fff; font-size: 10px; font-weight: 600; text-transform: uppercase;}
+
+.orangeCard{background-color: #F6811C; border-radius: 16px; padding: 20px;}
+
+.orangeCard h5{font-size: 16px; font-weight: 500;}
+
+.lotteryPriceNumber{display: flex; flex-wrap: wrap; align-items: center;}
+.price_bold{font-size: 30px; font-weight: 700; margin-right: 10px;}
+.price_normal{font-size: 24px; font-weight: 500;}
+
+.counterCol{padding: 10px 0px;}
+
+ #clockdiv{
+    color: #fff;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1;
+    display: flex;
+}
+#clockdiv > div{
+    display: inline-block;
+    padding: 0px 5px; width: 25%;
+}
+#clockdiv div > span{
+    display: inline-block;
+}
+.smalltext{
+    padding-top: 5px;
+    font-size: 14px; font-weight: 400;
+    opacity: 0.7;
+}
+
+
+.card_Gray2 {
+    position: relative;
+    padding: 20px;
+    background-color: #111;
+    border-radius: 16px;
+}
+.card_Gray2 .btn{border-radius: 0;}
+
+.myTicketRow{display: flex; align-items: center; flex-wrap: wrap;}
+.myTicketCol{display: flex; align-items: center; padding-right: 15px;}
+.MT_ic{margin-right: 8px;}
+.MT_Count{font-size: 30px; font-weight: 600; margin-right: 8px;}
+.MT_Price{font-size: 14px; font-weight: 500; opacity: 0.7;}
+
+
+.cardBorder{border-radius: 16px; padding: 16px; border: 1px #38393D solid; margin-bottom: 15px;}
+
+
+.cardBorder .gry_btn{min-width: 120px; border-radius: 5px;}
+
+.refferFriendList{border-radius: 8px; overflow: hidden; border: 1px #222 solid; background-color: #151515; margin-bottom: 15px;}
+.refferFriendList li{display: flex; justify-content: space-between; padding: 16px; border-bottom: 1px #222 solid;}
+.refferFriendList li .RF_title{padding-right: 10px;}
+form .gry_btn {margin-right: 5px;}
+
