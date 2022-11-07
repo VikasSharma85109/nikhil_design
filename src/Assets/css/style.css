@@ -937,9 +937,86 @@ form .gry_btn{
 .refferFriendList li{display: flex; justify-content: space-between; padding: 16px; border-bottom: 1px #222 solid;}
 .refferFriendList li .RF_title{padding-right: 10px;}
 form .gry_btn {margin-right: 5px;}
-
+.FlexCol {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 ailSection{padding: 50px 0px; min-height: 300px;  background: url(../images/emailSection.jpg) center no-repeat; background-size: cover;    position: relative;}
 .daily_mail{padding:150px 50px;  background: url(../images/daily_mail.jpg) center no-repeat; background-size: cover;    position: relative;}
 .daily_mail input, .daily_mail input:focus, .daily_mail input:active{border-radius: 30px;    padding: 30px 20px;background: #000;    color: #fff;}
 .daily_mail_box{position: relative;}
 .daily_mail_box button{position: absolute;    right: 8px;    top: 7px;    }
+
+
+
+
+/*====07-11-2022===*/
+@media (min-width: 991px) {
+  .premiumListings .card_postImg{height: 350px;}
+  .premiumListings .labelList{opacity: 1; font-size: 16px;}
+}
+
+.ads_Col{width: 100%; margin: 15px 0px;}
+.ads_Col img{width: 100%;}
+
+.bidsInfo,
+.bidsInfo>div,
+.bidsInfo h6{position: relative;}
+.bidsInfo h6{ padding-right: 65px;}
+.winnerTag{position: absolute; width: 54px; top: 0px; right: 0;}
+
+.FlexCol{display: flex;  justify-content: space-between; flex-wrap: wrap;}
+
+.FlexCol .field{width: auto; padding: 5px 10px; height: 38px;}
+
+@media (max-width: 480px) {
+  .FlexCol h3{width: 100%;}
+}
+
+
+.bidsImg{overflow: hidden;}
+@media (max-width: 575px) {
+.bidsListRow{flex-wrap: wrap;}
+.bidsImg {
+    width: 100%;
+    height: 200px;
+    min-width: 150px;
+}
+.bidsInfo{width: 100%; flex-wrap: wrap;}
+.bidsInfo .gry_btn{margin-top: 15px;}
+}
+
+
+
+.winnerCard{text-align: center;}
+.winnerTitle_img{margin: 30px auto 0px;}
+.winnerTitle_img img{}
+.winnerCol{}
+.winnerTitle{ padding: 10px 0px; max-width: 400px; margin: 0 auto;}
+.winnerTitle h3{}
+.winnerTitle p{font-size: 13px; opacity: 0.6; width: 100%; margin: 0;}
+
+.winnerImg_{display: flex; width: 80px; height: 80px; margin: 15px auto; border-radius: 100%; overflow: hidden; background-color: #333; border: 3px #333 solid;}
+.winnerImg_ img{min-width: 100%; min-height: 100%; object-fit: cover;}
+
+.winnerInfo_{}
+
+
+.zoom-in-zoom-out {
+  width: 150px;
+  height: 150px;
+  animation: zoom-in-zoom-out 2s ease-out infinite;
+}
+
+@keyframes zoom-in-zoom-out {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.5, 1.5);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}

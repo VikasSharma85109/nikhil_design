@@ -26,6 +26,10 @@ import AuctionResults from './AuctionResults';
 import CarLotry from './CarLotry';
 import GetAlerts from './GetAlerts';
 import EditMyAccount from './EditMyAccount';
+import VideoGallery from './VideoGallery';
+import Auctionlive from './Auctionlive';
+import AuctionPremium from './AuctionPremium';
+import Winner from './Winner';
 
 
 function Layout() {
@@ -66,7 +70,12 @@ function Layout() {
           {/* <AuctionResults/> */}
           {/* <CarLotry/> */}
           {/* <GetAlerts/> */}
-          <EditMyAccount/>
+          {/* <EditMyAccount/> */}
+          {/* <VideoGallery/> */}
+          {/* <Auctionlive/> */}
+          {/* <AuctionPremium/> */}
+          <Winner/>
+          
 
         <Footer/>
     </>

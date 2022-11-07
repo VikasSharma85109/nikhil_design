@@ -19,7 +19,13 @@ function MyBidsWins() {
                         </div>
                     </div>
                     <div className="col-12 col-md-8 col-lg-9">
-                        <h3>My Bids & Wins</h3>
+                    <div class="FlexCol">
+                        <h3>My Bids &amp; Wins</h3>
+                        <select class="field">
+                            <option>Recent Bid</option>
+                            <option>Winner Bid</option>
+                        </select>
+                    </div>
                         <hr/>
 
                         <div className="row">
