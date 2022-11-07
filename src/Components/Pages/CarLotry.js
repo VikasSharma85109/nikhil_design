@@ -49,19 +49,19 @@ function CarLotry() {
                                             <h5>Countdown to the next draw</h5>
                                             <div id="clockdiv">
                                             <div>
-                                                <span className="days" id="day"></span>
+                                                <span className="days" id="day">2</span>
                                                 <div className="smalltext">Days</div>
                                             </div>
                                             <div>
-                                                <span className="hours" id="hour"></span>
+                                                <span className="hours" id="hour">4</span>
                                                 <div className="smalltext">Hours</div>
                                             </div>
                                             <div>
-                                                <span className="minutes" id="minute"></span>
+                                                <span className="minutes" id="minute">50</span>
                                                 <div className="smalltext">Minutes</div>
                                             </div>
                                             <div>
-                                                <span className="seconds" id="second"></span>
+                                                <span className="seconds" id="second">10</span>
                                                 <div className="smalltext">Seconds</div>
                                             </div>
                                             </div>

@@ -133,11 +133,9 @@ function Home() {
       };
   return (
     <div>
-       
+
         <section className="heroSection d-flex align-items-center">
-        <button type="button" className="scrollDownIc" onclick="smoothScroll(document.getElementById('second'))"><img src={ic_scrollDown} alt="ic_scrollDown"/></button>
-
-
+            <button type="button" className="scrollDownIc" onclick="smoothScroll(document.getElementById('second'))"><img src={ic_scrollDown} alt="ic_scrollDown"/></button>
             <div className="container">
                 <div className="row">
                     <div className="col-12 col-lg-8 offset-lg-2">
@@ -500,7 +498,7 @@ function Home() {
                 </div>
             </div>
         </section>
-
+        
         <section className="ptb_80 blogSection">
             <div className="container">
                 <div className="row">
@@ -509,9 +507,7 @@ function Home() {
                     </div>
                 </div>
             </div>
-        </section>
-
-        
+        </section> 
     </div>
   )
 }

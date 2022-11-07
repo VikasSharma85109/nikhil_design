@@ -24,6 +24,8 @@ import CookiesSetting from './CookiesSetting';
 import SellYourVehicle from './SellYourVehicle';
 import AuctionResults from './AuctionResults';
 import CarLotry from './CarLotry';
+import GetAlerts from './GetAlerts';
+import EditMyAccount from './EditMyAccount';
 
 
 function Layout() {
@@ -62,7 +64,10 @@ function Layout() {
           {/* <CookiesSetting/> */}
           {/* <SellYourVehicle/> */}
           {/* <AuctionResults/> */}
-          <CarLotry/>
+          {/* <CarLotry/> */}
+          {/* <GetAlerts/> */}
+          <EditMyAccount/>
+
         <Footer/>
     </>
 

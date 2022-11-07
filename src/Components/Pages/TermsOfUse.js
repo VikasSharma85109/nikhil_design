@@ -10,48 +10,48 @@ function TermsOfUse() {
                       <h2 className="title_combo title_Center">Terms of Use</h2>
                       <div className="post-excerpt">
                         <p><strong>Terms of Use</strong></p>
-                    <p>Last revised on: 6/25/2020</p>
-                    <p>Terms of Use</p>
-                    <p>BY ACCESSING OR USING THE DIGITAL SERVICES, YOU ACCEPT AND AGREE TO BE LEGALLY BOUND BY AND COMPLY WITH THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT ACCESS OR USE THE DIGITAL SERVICES. SPECIFICALLY, PLEASE TAKE NOTICE THAT WITH LIMITED EXCEPTIONS, ALL DISPUTES BETWEEN YOU AND US REGARDING THIS AGREEMENT ARE SUBJECT TO BINDING ARBITRATION ON AN INDIVIDUAL BASIS RATHER THAN JURY TRIALS, INCLUDING className ACTION LAWSUITS, IN COURTS AND ONLY SPECIFIC REMEDIES ARE AVAILABLE TO YOU. Read more in <a href="#dispute-resolution">section 24. Dispute Resolution (Arbitration Clause and className Action Waiver)</a>.</p>
-                    <p>In the Highlights section, we provide an overview of the terms and conditions that apply to your access to or use of a U.S. website, mobile app or other digital service (each a “Digital Service”) operated by Bring a Trailer Media, LLC or one of its affiliates (“we”, “us”, “our” or “BaTMedia”).</p>
-                    <p>The Digital Services include a platform for vehicle listings and information services. BATMEDIA IS NOT AN AUTOMOBILE BROKER, DEALER OR TRADITIONAL AUCTIONEER AND WE DO NOT SELL, EXCHANGE, BUY, OR OFFER FOR SALE, NEGOTIATE OR ATTEMPT TO NEGOTIATE, A SALE OR EXCHANGE OF AN INTEREST IN ANY VEHICLE LISTED ON THE DIGITAL SERVICES. BATMEDIA HAS NEVER: (I) HELD TITLE FOR ANY VEHICLE LISTED ON THE DIGITAL SERVICES, (2) INSPECTED ANY VEHICLE LISTED ON THE DIGITAL SERVICES OR (3) HAD ANY VEHICLE LISTED ON THE DIGITAL SERVICES IN ITS LEGAL POSSESSION.</p>
-                    <p>Please review the full <a href="#terms">Terms of Use</a> below for a detailed explanation of applicable terms and conditions. Any reference to the Terms of Use, including its sections, in the Highlights section is intended to refer to the full Terms of Use below.</p>
-                    <p><strong>Highlights</strong></p>
-                    <p>Application and Acceptance of the Terms of Use</p>
-                    <ul>
-                    <li>Each time you access or use the Digital Services, you agree to be bound by the Terms of Use (including the binding arbitration provision located in the section entitled “<a href="#dispute-resolution">Dispute Resolution (Arbitration Clause and className Action Waiver)</a>”) along with our Privacy Notice, any FAQs, and any additional guidelines, terms, procedures or rules that may apply to a specific feature of the Digital Services (collectively, the “Agreement”) that are owned or operated by Bring a Trailer Media, LLC. or its affiliates (“we”, “us”, “our” or “BaTMedia”).</li>
-                    <li>You acknowledge that we will use information we obtain about you in connection with your access to and use of the Digital Services in accordance with our <a href="https://bringatrailer.com/privacy-notice/" target="_blank" rel="noopener noreferrer">Privacy Notice</a>.</li>
-                    <li>We may provide services that are not described in these Terms of Use, or customized services; unless we have entered into a separate, signed agreement that expressly supersedes these Terms of Use, these Terms of Use will apply to those services as well.</li>
-                    <li>You acknowledge and agree that the Agreement is solely a contract between you and BaTMedia and it expressly does not govern any sale, transaction, or other relationship between you and any other User, any third party or between any other Buyers and Sellers.</li>
-                    </ul>
-                    <p>Your Responsibilities</p>
-                    <ul>
-                    <li>You are responsible for maintaining the accuracy of any information you submit to us in relation to your access to and use of the Digital Services.</li>
-                    <li>You are solely responsible for any information (including any information used in any listing) you provide to us.</li>
-                    <li>You are responsible for your conduct in relation to the Digital Services, and your access to or use of the Digital Services and Content (as such term is defined in the full Terms of Use) is subject to the rules described in the section entitled “Your Conduct and Responsible Use of the Digital Services” of the Terms of Use below, as well as any additional terms and conditions that may be provided by us as part of the Agreement and applicable to you.</li>
-                    </ul>
-                    <p>Intellectual and Other Proprietary Rights</p>
-                    <ul>
-                    <li>As between BaTMedia and you, BaTMedia owns all right, title and interest in and to the copyrights, trademarks, service marks, trade names, patents and all other intellectual and proprietary rights throughout the world associated with the Digital Services and Content except, if applicable, with respect to your User Content.</li>
-                    <li>You may not build a business, in whole or in part, resell, redistribute, recirculate or make any other commercial use of, or create derivative works or materials utilizing any portion of the Digital Services (including any code used in any software) or Content, whether or not for profit.</li>
-                    <li>If we become aware that any of our Users has repeatedly infringed the proprietary rights of any third party, we may take steps to terminate that User’s access to the Digital Services. We reserve the right (but have no obligation) to review any information you provide, investigate, and/or take appropriate action against you or any other User in our sole discretion.</li>
-                    </ul>
-                    <p>Release, Indemnity, Disclaimers and Limitation of Liability</p>
-                    <ul>
-                    <li>You release BaTMedia (and its affiliates, service providers, partners, and its and their respective co-branders, licensors, payment processing partners, other partners and officers, directors, employees, contractors, and agents) from all damages, losses, liabilities, costs or expenses, arising out of any dispute between you and any other User or third party relating to your use of the Digital Services.</li>
-                    <li>You agree to indemnify and hold BaTMedia (and its affiliates, service providers, partners, and its and their respective co-branders, licensors, payment processing partners, other partners and officers, directors, employees, contractors, and agents) harmless from any and all damage (whether direct, indirect, incidental, consequential or otherwise), loss, liability, cost and expense, including, without limitation, costs and reasonable attorneys’ and accounting fees, from any claim,demand, suit, proceeding (whether before an arbitrator, court, mediator or otherwise) or investigation made by any User or third party (each a “Claim”) relating to or arising out of (a) your use of the Digital Services or Content, (b) your User Content, (c) your violation of the Terms of Use; (d) your violation of applicable laws or regulations or (e) the actions or inactions of any third party to whim you grant permission to use your user account to access the Digital Services (including the sharing of your Credentials).</li>
-                    <li>BaTMedia disclaims any warranties and provides the Digital Services “as is”.</li>
-                    <li>Our liability is limited as described in the Limitation of Liability section in the Terms of Use below.</li>
-                    </ul>
-                    <p>Third Parties</p>
-                    <ul>
-                    <li>BaTMedia is not responsible for any links to third-party websites, apps or other services, including social media platforms.</li>
-                    <li>We participate in affiliate marketing and may allow third-party affiliate links to be encoded on some of our Digital Services. This means that we may earn a commission when you click on or make purchases via third-party affiliate links.</li>
-                    </ul>
-                    <p>Termination</p>
-                    <ul>
-                    <li>BaTMedia may, in its sole discretion, terminate your password, account (or any other part of your Credentials), access to or use of the Digital Services, or remove and discard any User Content or information stored, sent, or received via the Digital Services without prior notice and for any reason or no reason.</li>
-                    </ul>
+                        <p>Last revised on: 6/25/2020</p>
+                        <p>Terms of Use</p>
+                        <p>BY ACCESSING OR USING THE DIGITAL SERVICES, YOU ACCEPT AND AGREE TO BE LEGALLY BOUND BY AND COMPLY WITH THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT ACCESS OR USE THE DIGITAL SERVICES. SPECIFICALLY, PLEASE TAKE NOTICE THAT WITH LIMITED EXCEPTIONS, ALL DISPUTES BETWEEN YOU AND US REGARDING THIS AGREEMENT ARE SUBJECT TO BINDING ARBITRATION ON AN INDIVIDUAL BASIS RATHER THAN JURY TRIALS, INCLUDING className ACTION LAWSUITS, IN COURTS AND ONLY SPECIFIC REMEDIES ARE AVAILABLE TO YOU. Read more in <a href="#dispute-resolution">section 24. Dispute Resolution (Arbitration Clause and className Action Waiver)</a>.</p>
+                        <p>In the Highlights section, we provide an overview of the terms and conditions that apply to your access to or use of a U.S. website, mobile app or other digital service (each a “Digital Service”) operated by Bring a Trailer Media, LLC or one of its affiliates (“we”, “us”, “our” or “BaTMedia”).</p>
+                        <p>The Digital Services include a platform for vehicle listings and information services. BATMEDIA IS NOT AN AUTOMOBILE BROKER, DEALER OR TRADITIONAL AUCTIONEER AND WE DO NOT SELL, EXCHANGE, BUY, OR OFFER FOR SALE, NEGOTIATE OR ATTEMPT TO NEGOTIATE, A SALE OR EXCHANGE OF AN INTEREST IN ANY VEHICLE LISTED ON THE DIGITAL SERVICES. BATMEDIA HAS NEVER: (I) HELD TITLE FOR ANY VEHICLE LISTED ON THE DIGITAL SERVICES, (2) INSPECTED ANY VEHICLE LISTED ON THE DIGITAL SERVICES OR (3) HAD ANY VEHICLE LISTED ON THE DIGITAL SERVICES IN ITS LEGAL POSSESSION.</p>
+                        <p>Please review the full <a href="#terms">Terms of Use</a> below for a detailed explanation of applicable terms and conditions. Any reference to the Terms of Use, including its sections, in the Highlights section is intended to refer to the full Terms of Use below.</p>
+                        <p><strong>Highlights</strong></p>
+                        <p>Application and Acceptance of the Terms of Use</p>
+                        <ul>
+                          <li>Each time you access or use the Digital Services, you agree to be bound by the Terms of Use (including the binding arbitration provision located in the section entitled “<a href="#dispute-resolution">Dispute Resolution (Arbitration Clause and className Action Waiver)</a>”) along with our Privacy Notice, any FAQs, and any additional guidelines, terms, procedures or rules that may apply to a specific feature of the Digital Services (collectively, the “Agreement”) that are owned or operated by Bring a Trailer Media, LLC. or its affiliates (“we”, “us”, “our” or “BaTMedia”).</li>
+                          <li>You acknowledge that we will use information we obtain about you in connection with your access to and use of the Digital Services in accordance with our <a href="https://bringatrailer.com/privacy-notice/" target="_blank" rel="noopener noreferrer">Privacy Notice</a>.</li>
+                          <li>We may provide services that are not described in these Terms of Use, or customized services; unless we have entered into a separate, signed agreement that expressly supersedes these Terms of Use, these Terms of Use will apply to those services as well.</li>
+                          <li>You acknowledge and agree that the Agreement is solely a contract between you and BaTMedia and it expressly does not govern any sale, transaction, or other relationship between you and any other User, any third party or between any other Buyers and Sellers.</li>
+                        </ul>
+                        <p>Your Responsibilities</p>
+                        <ul>
+                          <li>You are responsible for maintaining the accuracy of any information you submit to us in relation to your access to and use of the Digital Services.</li>
+                          <li>You are solely responsible for any information (including any information used in any listing) you provide to us.</li>
+                          <li>You are responsible for your conduct in relation to the Digital Services, and your access to or use of the Digital Services and Content (as such term is defined in the full Terms of Use) is subject to the rules described in the section entitled “Your Conduct and Responsible Use of the Digital Services” of the Terms of Use below, as well as any additional terms and conditions that may be provided by us as part of the Agreement and applicable to you.</li>
+                        </ul>
+                        <p>Intellectual and Other Proprietary Rights</p>
+                        <ul>
+                          <li>As between BaTMedia and you, BaTMedia owns all right, title and interest in and to the copyrights, trademarks, service marks, trade names, patents and all other intellectual and proprietary rights throughout the world associated with the Digital Services and Content except, if applicable, with respect to your User Content.</li>
+                          <li>You may not build a business, in whole or in part, resell, redistribute, recirculate or make any other commercial use of, or create derivative works or materials utilizing any portion of the Digital Services (including any code used in any software) or Content, whether or not for profit.</li>
+                          <li>If we become aware that any of our Users has repeatedly infringed the proprietary rights of any third party, we may take steps to terminate that User’s access to the Digital Services. We reserve the right (but have no obligation) to review any information you provide, investigate, and/or take appropriate action against you or any other User in our sole discretion.</li>
+                          </ul>
+                          <p>Release, Indemnity, Disclaimers and Limitation of Liability</p>
+                        <ul>
+                          <li>You release BaTMedia (and its affiliates, service providers, partners, and its and their respective co-branders, licensors, payment processing partners, other partners and officers, directors, employees, contractors, and agents) from all damages, losses, liabilities, costs or expenses, arising out of any dispute between you and any other User or third party relating to your use of the Digital Services.</li>
+                          <li>You agree to indemnify and hold BaTMedia (and its affiliates, service providers, partners, and its and their respective co-branders, licensors, payment processing partners, other partners and officers, directors, employees, contractors, and agents) harmless from any and all damage (whether direct, indirect, incidental, consequential or otherwise), loss, liability, cost and expense, including, without limitation, costs and reasonable attorneys’ and accounting fees, from any claim,demand, suit, proceeding (whether before an arbitrator, court, mediator or otherwise) or investigation made by any User or third party (each a “Claim”) relating to or arising out of (a) your use of the Digital Services or Content, (b) your User Content, (c) your violation of the Terms of Use; (d) your violation of applicable laws or regulations or (e) the actions or inactions of any third party to whim you grant permission to use your user account to access the Digital Services (including the sharing of your Credentials).</li>
+                          <li>BaTMedia disclaims any warranties and provides the Digital Services “as is”.</li>
+                          <li>Our liability is limited as described in the Limitation of Liability section in the Terms of Use below.</li>
+                        </ul>
+                        <p>Third Parties</p>
+                        <ul>
+                          <li>BaTMedia is not responsible for any links to third-party websites, apps or other services, including social media platforms.</li>
+                          <li>We participate in affiliate marketing and may allow third-party affiliate links to be encoded on some of our Digital Services. This means that we may earn a commission when you click on or make purchases via third-party affiliate links.</li>
+                        </ul>
+                        <p>Termination</p>
+                        <ul>
+                          <li>BaTMedia may, in its sole discretion, terminate your password, account (or any other part of your Credentials), access to or use of the Digital Services, or remove and discard any User Content or information stored, sent, or received via the Digital Services without prior notice and for any reason or no reason.</li>
+                        </ul>
                     <p>Changes to the Terms of Use</p>
                     <ul>
                     <li>We may revise the Terms of Use prospectively by posting an updated version on the Digital Services or by providing you with notice (by email or other notification through the Digital Services).</li>

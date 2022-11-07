@@ -94,6 +94,9 @@ h2 {
 
 .sideBar__{display: flex; overflow: auto; padding-bottom: 8px;}
 .sideBar__ li{white-space: nowrap; padding: 8px;}
+.daily_mail {  padding: 30px 15px;}
+.daily_mail_box button { position: inherit;}
+.daily_mail input { padding: 22px 15px;  margin-bottom: 10px;}
 
 }
 

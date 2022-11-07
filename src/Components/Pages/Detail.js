@@ -266,7 +266,7 @@ function Detail() {
                     </div>
                     <div className="col-12 col-lg-3">
                         <div className="card_Gray mt-4 mb-3">
-                            <h6>BaT Essentials</h6>
+                            <h6>Shibnobi Essentials</h6>
                             <ul className="label__List">
                                 <li>
                                     <label className="label__">Seller:</label>
@@ -312,7 +312,7 @@ function Detail() {
                         </div>
 
                         <div className="card_Gray mb-3">
-                            <h6>GET THE BaT DAILY EMAIL</h6>
+                            <h6>GET THE Shibnobi DAILY EMAIL</h6>
                             <p>Your daily digest of everything happening on the site.</p>
                             <div className="inlineField">
                                 <input type="text" name="" placeholder="Enter your email address" className="field"/>
@@ -322,31 +322,31 @@ function Detail() {
 
                         <div className="pt-3 pb-3 sidebarPostRow">
                             <div className="sidebarPostHead">
-                                <h6>Recent BaT Features</h6>
+                                <h6>Recent Shibnobi Features</h6>
                             </div>
                             
                             <div className="sidebarPost">
                                 <a href="#">
                                     <div className="sidebarPost_Img"><img src={car_01}/></div>
-                                    <div className="sidebarPost_text">Event Coverage: BaT Alumni Gathering at The Shop in Dallas</div>
+                                    <div className="sidebarPost_text">Event Coverage: Shibnobi Alumni Gathering at The Shop in Dallas</div>
                                 </a>
                             </div>
                             <div className="sidebarPost">
                                 <a href="#">
                                     <div className="sidebarPost_Img"><img src={car_02}/></div>
-                                    <div className="sidebarPost_text">Event Coverage: BaT Alumni Gathering at The Shop in Dallas</div>
+                                    <div className="sidebarPost_text">Event Coverage: Shibnobi Alumni Gathering at The Shop in Dallas</div>
                                 </a>
                             </div>
                             <div className="sidebarPost">
                                 <a href="#">
                                     <div className="sidebarPost_Img"><img src={car_03}/></div>
-                                    <div className="sidebarPost_text">Event Coverage: BaT Alumni Gathering at The Shop in Dallas</div>
+                                    <div className="sidebarPost_text">Event Coverage: Shibnobi Alumni Gathering at The Shop in Dallas</div>
                                 </a>
                             </div>
                             <div className="sidebarPost">
                                 <a href="#">
                                     <div className="sidebarPost_Img"><img src={car_04}/></div>
-                                    <div className="sidebarPost_text">Event Coverage: BaT Alumni Gathering at The Shop in Dallas</div>
+                                    <div className="sidebarPost_text">Event Coverage: Shibnobi Alumni Gathering at The Shop in Dallas</div>
                                 </a>
                             </div>
 
@@ -359,7 +359,7 @@ function Detail() {
                             <h6>Upcoming Events</h6>
                             <ul className="sidebar_Event">
                                 <li>
-                                    <a href="#">BaT Alumni Gathering: October 1 in conjunction with the Audrain Newport Concours & Motor Week – REGISTRATION IS OPEN </a>
+                                    <a href="#">Shibnobi Alumni Gathering: October 1 in conjunction with the Audrain Newport Concours & Motor Week – REGISTRATION IS OPEN </a>
                                     <div className="event_date"><i className="fa-solid fa-clock"></i> October 1, 2022</div>
                                 </li>
                                 <li>
